@@ -1,0 +1,1 @@
+<h1>Thanks {{ Session::get('customerName') }} for stay with us</h1>

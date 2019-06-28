@@ -1,0 +1,1 @@
+<h1>Hello {{ Session::get('customerName') }} thanks for register our community</h1>
